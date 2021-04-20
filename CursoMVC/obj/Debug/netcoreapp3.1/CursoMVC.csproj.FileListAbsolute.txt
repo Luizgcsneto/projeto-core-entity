@@ -154,3 +154,8 @@ C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runti
 C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\Luiz  Neto\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
